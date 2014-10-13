@@ -137,17 +137,11 @@
 		.r1 {width: 425px; float: left; margin-left: 15px; margin-right: 0px; margin-top: 15px; text-align: center;}  /* Use w Section */
 	
 		.litter-photo {
-				width: 500px;
-				float: left; clear: both;
-				margin-left: 190px; margin-right: auto;
-				text-align: center;
-				margin-top: 20px; margin-bottom: 0px; }
-				
-		.litter-photo img {
-				display: block; 
+				width: 880px;
+				display: block;
 				margin-left: auto; margin-right: auto;
-				margin-bottom: 10px;
-				max-width: 500px; max-height: auto; }
+				margin-top: 10px; margin-bottom: 0px; }
+				
 				
 		.empty { float: left; clear: both; }
 	
