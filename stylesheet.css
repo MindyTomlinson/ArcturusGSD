@@ -140,7 +140,8 @@
 				width: 880px;
 				display: block;
 				margin-left: auto; margin-right: auto;
-				margin-top: 10px; margin-bottom: 0px; }
+				margin-top: 10px; margin-bottom: 0px;
+				text-align: center; }
 				
 				
 		.empty { float: left; clear: both; }
