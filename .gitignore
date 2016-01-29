@@ -1,2 +1,6 @@
-$ cat .gitignore
-archive/
+#  Ignore the images directory and everything inside it
+images/
+images/**
+
+# Ignore system files
+.DS_Store
