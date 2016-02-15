@@ -5,3 +5,6 @@ images/**
 # Ignore system and hosting files
 .DS_Store
 .netlify
+
+# Ignore robots.txt
+robots.txt
