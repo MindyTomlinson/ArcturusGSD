@@ -2,6 +2,6 @@
 images/
 images/**
 
-# Ignore system files
+# Ignore system and hosting files
 .DS_Store
 .netlify
