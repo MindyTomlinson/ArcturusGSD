@@ -4,3 +4,4 @@ images/**
 
 # Ignore system files
 .DS_Store
+.netlify
