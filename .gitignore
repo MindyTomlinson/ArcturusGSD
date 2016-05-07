@@ -2,6 +2,9 @@
 images/
 images/**
 
+# Ignore PDF files
+**/*.pdf
+
 # Ignore system and hosting files
 .DS_Store
 .netlify
