@@ -19,7 +19,7 @@
 				nav top bar = #454545
 		*/
 
-		h1, h2, h3 {
+		h1, h2, h3, h4 {
 				font-family: Georgia, serif;
 				font-weight: normal;
 				color: #E62C14;
@@ -28,11 +28,15 @@
 
 		h1 { padding: 0px 0px 15px 0px; }
 
-		h2, h3 { padding: 15px 0px 15px 0px; }
+		h2, h3, h4 { padding: 15px 0px 15px 0px; }
 
 		h1 {font-size: 36px;}
 
 		h2 {font-size: 24px;}
+
+		h4 {font-size: 18px;
+			font-style: italic; 
+			padding: 5px 0 15px 0;}
 
 		p {
 				margin: 0px;
@@ -97,6 +101,10 @@
 				color: #333333;
 				font-style: italic;
 				font-weight: bold; }
+
+		h4.retired::before, h4.retired::after {
+				content: "\2014 ";
+		}
 
 		span.bold { font-weight: bold; }
 
