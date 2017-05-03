@@ -151,6 +151,10 @@
 				margin-top: 10px; margin-bottom: 0px;
 				text-align: center; }
 
+		.litter-photo > img {
+			width: 880px;
+			max-height: auto;
+		}
 
 		.empty { float: left; clear: both; }
 
